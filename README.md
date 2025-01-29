@@ -6,7 +6,7 @@ Instal·lació i execució
 
 Clona aquest repositori o descarrega el fitxer MaxEstalvis.py.
 
-git clone https://github.com/el_teu_usuari/MaxEstalvis.git
+git clone https://github.com/sergiobiol/MaxEstalvis.git
 cd MaxEstalvis
 
 Executa l'arxiu Python: python MaxEstalvis.py
